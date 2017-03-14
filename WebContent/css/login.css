@@ -1,0 +1,71 @@
+@CHARSET "ISO-8859-1";
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+	height:100%;
+    width:100px;
+    position:absolute;
+    padding:5px; 
+}
+
+#main_div {
+	
+	margin-left:130px;
+    padding:5px;
+    float:top;
+}
+
+#login_div {
+	float:left;
+	padding:5px;
+}
+#login_div {
+    float:left;
+    padding:5px;
+    position:relative; 
+	left:20px; 
+	top:20px; 
+}
+#register_div {
+    float:left;
+    padding:5px; 
+    position:relative; 
+	left:40px; 
+	top:20px; 
+}
+
+
+#usertable {
+
+    padding:5px; 
+	position:relative; 
+	left:80px; 
+	top:40px; 
+}
+
+#gametable {
+
+	border-bottom: 1px solid #CCCCCC;
+	border-left: 1px solid #CCCCCC;
+	
+}
+	
+#gametable td {
+	
+	text-align:center;
+	border-right: 1px solid #CCCCCC;
+	border-top: 1px solid #CCCCCC;
+	height:40px;
+	width:48px;
+}	
+		
+		
+		
+		
